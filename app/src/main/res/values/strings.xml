@@ -1,0 +1,247 @@
+<resources>
+    <string name="app_name">Nuri Toplar</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="address_hint">Your Address in Detail</string>
+
+
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_food_list">Food List</string>
+    .
+
+    .
+    <string name="menu_food_detail">Food Detail</string>
+
+
+    .
+    <string name="action_search">Search</string>
+
+    .
+
+    .
+
+
+
+    <string name="add_nav_tabs">Additional</string>
+
+
+    <string name="ShareInvite">Invite you to download Nuri Toplar App:</string>
+
+    .
+    <string name="action_clear_cart">Clear Cart</string>
+
+
+
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyBui42lpBwa-UGA01Ih2-gVeRNR1uctZtc</string>
+
+
+    <string name="Register">Register</string>
+    <string name="Pleasefillinformation">Please fill information</string>
+    <string name="CANCEL">CANCEL</string>
+    <string name="CantEmpty">Cant be Empty!</string>
+    <string name="Pleaseaddress">Please enter your address</string>
+
+
+
+    <string name="title_activity_traking_order">Map</string>
+
+
+    <string name="addon">Addon</string>
+
+
+    <string name="size">Size</string>
+
+
+
+    <string name="Placed">Placed</string>
+    <string name="Preparing">Preparing</string>
+    <string name="Shipping">Shipping</string>
+    <string name="Shipped">Shipped</string>
+    <string name="Cancelled">Cancelled</string>
+
+
+    <string name="SubscribessNews">Subscribe News</string>
+    <string name="SubscribeToast">Subscribe successfully</string>
+    <string name="UnSubscribeToast">Unsubscribe successfully!</string>
+    <string name="NewsSystem">News System</string>
+    <string name="SubscribeQuest">Subscribe to receive our news notifications
+</string>
+    <string name="CANCELl">CANCEL</string>
+    <string name="SEND">Confirm</string>
+
+
+    <string name="currancy">LE</string>
+
+
+    <string name="menu_home">Home</string>
+    <string name="menu_menu">Categories</string>
+    <string name="nav_cart">Cart</string>
+    <string name="nav_orders">View Orders</string>
+    <string name="update_info">My Info</string>
+    <string name="Language">Language</string>
+    <string name="AboutUs">About Us</string>
+    <string name="CallUs">Contact Us</string>
+    <string name="sign_out">Sign out</string>
+    <string name="sunscrinNews">Notification Settings</string>
+    <string name="menu_rate">Rate</string>
+    <string name="menu_share">Share</string>
+    <string name="Hey">Hey,</string>
+
+    <string name="Pricee">Total: </string>
+
+    <string name="orderdate">Order Date: </string>
+
+    <string name="offers">Offers</string>
+
+
+    <string name="DeliveryPrice">Delivery Price</string>
+
+
+    <string name="Update">Update</string>
+    <string name="updateinfo">Update Info</string>
+    <string name="updateinfoSuccess">Update Info success</string>
+
+
+    <string name="Categoriess">Categories</string>
+    <string name="BestDeals">Special Offers</string>
+    <string name="MostPopular">Most Popular</string>
+
+    <string name="aboutText">About US</string>
+
+
+    <string name="Price">Price:</string>
+    <string name="Size">Size:</string>
+    <string name="Addon">Addon:</string>
+    <string name="Quantity">Quantity:</string>
+
+
+    <string name="Total">Total:</string>
+
+    <string name="EMPTYCART">EMPTY CART</string>
+    <string name="PlaceOrder">Place Order</string>
+
+    <string name="Confirmm">Confirm</string>
+
+
+    <string name="AddCart">Add To Cart</string>
+
+
+    <string name="Enteraddress">Enter your address</string>
+    <string name="Enteraddress2">Enter Address</string>
+    <string name="YourAddress">Your Address</string>
+    <string name="YourNotes">Your Notes (optional)</string>
+    <string name="DeliveryMethod">Delivery Method</string>
+    <string name="HomeAddress">Home Address</string>
+    <string name="OtherAddress">Other Address</string>
+    <string name="PaymentMethod">Payment Method</string>
+    <string name="CashDelivery">Cash On Delivery</string>
+
+
+
+    <string name="NearestLocation">Select Nearest Location</string>
+    <string name="ToaseCantEmptyAddress">Address Can\'t be Empty</string>
+    <string name="ToaseCantEmptyPlaceAddress">You must select Nearst Place</string>
+
+
+
+    <string name="TrackingOrder">Tracking Order</string>
+    <string name="Canrightnow">Can\'t do that right now</string>
+    <string name="Repeat">Repeat Order</string>
+    <string name="Addcart">Add all item in order to cart success</string>
+
+
+    <string name="OrderNo">Order No.:</string>
+    <string name="Commentt">Comment:</string>
+    <string name="Status">Status:</string>
+
+    <string name="pricesinglepro">Product Price: </string>
+
+
+
+    <string name="exit">OK</string>
+    <string name="OrderDetail">Order Detail</string>
+
+    <string name="OneSize">One Size</string>
+    <string name="AddCartsuccess">Add to Cart success</string>
+    <string name="updatecartToase">Update Cart Success</string>
+
+    <string name="Shipper">Shipper:</string>
+    <string name="Phone">Phone:</string>
+    <string name="EstimateTime">Estimate Time Delivery:</string>
+
+    <string name="CallShipper">Call Shipper</string>
+
+
+    <string name="arabic">العربية</string>
+    <string name="english">English</string>
+    <string name="order_palced_toast">Your Order Placed Successfully</string>
+
+
+    <string name="stepmore">One more step</string>
+
+    <string name="Delete">Delete</string>
+    <string name="UpdateOrder">Update</string>
+    <string name="DeleteCartitem">Delete item from Cart success</string>
+
+
+
+    <string name="loading">Loading...</string>
+
+    <string name="Go">Go</string>
+
+    <string name="Failredtosendnotify">Order was send but failed to sent notification!</string>
+
+    <string name="SignOut">SignOut</string>
+    <string name="SignOutMSG">Do you really want to sign out?</string>
+    <string name="CANCELLL">CANCEL</string>
+    <string name="YESS">YES</string>
+
+    <string name="YourName">Your Name</string>
+    <string name="YourAddresss">Your Address</string>
+    <string name="YourPhone">Your Phone</string>
+
+
+
+    <string name="calnow">Call</string>
+    <string name="wats">WhatsApp</string>
+    <string name="messenger">Messenger</string>
+
+
+    <string name="FromRokn">From Nuri Toplar App: </string>
+
+    <string name="RegisterSuccessfully">Register Successfully</string>
+
+    <string name="AddonDef">Addon : Default</string>
+    <string name="SizeDef">Size : Default</string>
+
+    <string name="restaurantclosed">The Store is not available now</string>
+    <string name="restaurantnow">The Store is not available now, you can order later, Thank you</string>
+    <string name="OkOk">Ok</string>
+
+    <string name="OutStock">Out Of Stock</string>
+
+    <string name="nav_branches">Our Branches</string>
+
+        <string name="Youbranch">You must select branch</string>
+
+    <string name="PhoneCall">Phone Call</string>
+    <string name="OpenLocation">Open Location on Map</string>
+
+
+    <string name="pleaseselectbranch">Please Select Branch</string>
+
+
+    <string name="BranchAddress">Address: </string>
+    <string name="BranchPhone">Phone: </string>
+    <string name="locationnull">Location on Map Will be available soon</string>
+
+</resources>

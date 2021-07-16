@@ -1,0 +1,232 @@
+<resources>
+    <string name="app_name">قهوة نوري توبلار</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="messenger">ماسنجر</string>
+
+
+
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_food_list">Food List</string>
+    .
+
+    .
+    <string name="menu_food_detail">التفاصيل</string>
+
+
+    .
+    <string name="action_search">بحث</string>
+
+    .
+
+
+    <string name="add_nav_tabs">اضافية</string>
+
+
+    <string name="ShareInvite">ادعوك لتحميل تطبيق قهوة نوري توبلار: </string>
+
+    .
+    <string name="action_clear_cart">تفريغ السلة</string>
+
+
+
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyBui42lpBwa-UGA01Ih2-gVeRNR1uctZtc</string>
+
+
+    <string name="Register">تسجيل</string>
+    <string name="Pleasefillinformation">من فضلك ادخل بياناتك</string>
+    <string name="CANCEL">الغاء</string>
+    <string name="CantEmpty">ادخل الحقول الفارغة!</string>
+    <string name="Pleaseaddress">من فضلك ادخل عنوانك!</string>
+
+
+    <string name="title_activity_traking_order">Map</string>
+
+
+    <string name="addon">الاضافات</string>
+
+
+    <string name="size">الحجم</string>
+
+
+
+    <string name="Placed">جارى التأكيد</string>
+    <string name="Preparing">جارى التحضير</string>
+    <string name="Shipping">فى الطريق اليك</string>
+    <string name="Shipped">تم الاستلام</string>
+    <string name="Cancelled">ملغى</string>
+
+
+    <string name="SubscribessNews">الاشعارات</string>
+    <string name="SubscribeToast">تم تأكيد الاشتراك بنجاح</string>
+    <string name="UnSubscribeToast">تم الغاء الاشتراك!</string>
+    <string name="NewsSystem">الاشعارات</string>
+    <string name="SubscribeQuest">هل تريد تفعيل الاشتراك فى خدمة تلقى الاشعارات بأحدث المنتجات والعروض؟</string>
+    <string name="CANCELl">الغاء</string>
+    <string name="SEND">تأكيد</string>
+
+
+    <string name="currancy">ج.م</string>
+
+    <string name="orderdate">تاريخ الطلب: </string>
+
+    <string name="offers">العروض</string>
+
+
+    <string name="menu_home">الرئيسية</string>
+    <string name="menu_menu">التصنيفات</string>
+    <string name="nav_cart">السلة</string>
+    <string name="nav_orders">الطلبات</string>
+    <string name="update_info">بياناتى</string>
+    <string name="Language">اللغة</string>
+    <string name="AboutUs">من نحن</string>
+    <string name="CallUs">اتصل بنا</string>
+    <string name="sign_out">تسجل الخروج</string>
+    <string name="sunscrinNews">اعدادات الاشعارات</string>
+    <string name="menu_rate">تقييم التطبيق</string>
+    <string name="menu_share">مشاركة التطبيق</string>
+    <string name="Hey">مرحبا,</string>
+
+    <string name="Update">تحديث</string>
+    <string name="updateinfo">بياناتى</string>
+    <string name="updateinfoSuccess">تم تحديث بيانات بنجاح</string>
+
+    <string name="Categoriess">التصنيفات</string>
+    <string name="BestDeals">عروض مميزة</string>
+    <string name="MostPopular">الاكثر شهرة</string>
+
+    <string name="aboutText">من نحن</string>
+    <string name="Pricee">المبلغ: </string>
+
+    <string name="DeliveryPrice">مصاريف الشحن</string>
+
+
+    <string name="Price">السعر:</string>
+    <string name="Size">الحجم:</string>
+    <string name="Addon">الاضافات:</string>
+    <string name="Quantity">الكمية:</string>
+
+    <string name="Total">الاجمالى:</string>
+
+    <string name="EMPTYCART">السلة فارغة</string>
+    <string name="PlaceOrder">اتمام الطلب</string>
+
+    <string name="Confirmm">تأكيد</string>
+
+
+    <string name="pricesinglepro">سعر المنتج: </string>
+
+
+
+    <string name="AddCart">أضف الى السلة</string>
+
+    <string name="Enteraddress">ادخل عنوانك</string>
+    <string name="Enteraddress2">ادخل العنوان</string>
+    <string name="YourAddress">العنوان</string>
+    <string name="YourNotes">ملاحظاتك (اختيارى)</string>
+    <string name="DeliveryMethod">طريقة الشحن</string>
+    <string name="HomeAddress">عنوانى المسجل</string>
+    <string name="OtherAddress">عنوان اخر</string>
+    <string name="PaymentMethod">طريقة الدفع</string>
+    <string name="CashDelivery">الدفع عند الاستلام</string>
+
+
+    <string name="NearestLocation">اختيار أقرب مكان للعنوان</string>
+    <string name="ToaseCantEmptyAddress">يرجى ادخال العنوان</string>
+    <string name="ToaseCantEmptyPlaceAddress">يجب اخيار أقرب عنوان </string>
+
+
+    <string name="TrackingOrder">تتبع الطلب</string>
+    <string name="Canrightnow">لا يمكن اتمام ذلك الان</string>
+    <string name="Repeat">إعادة الطلب</string>
+    <string name="Addcart">تمت الاضافة الى السلة بنجاح</string>
+
+    <string name="OrderNo">رقم الطلب:</string>
+    <string name="Commentt">الملاحظات:</string>
+    <string name="Status">حالة الطلب:</string>
+
+
+    <string name="exit">اغلاق</string>
+    <string name="OrderDetail">تفاصيل الطلب</string>
+
+    <string name="OneSize">حجم واحد</string>
+    <string name="AddCartsuccess">تم اضافته الى السلة</string>
+    <string name="updatecartToase">تم تحديثه فى السلة</string>
+
+    <string name="Shipper">مندوب التوصيل:</string>
+    <string name="Phone">رقم الهاتف:</string>
+    <string name="EstimateTime">وقت الوصول المتوقع:</string>
+
+    <string name="CallShipper">اتصل بمندوب التوصيل</string>
+
+
+    <string name="arabic">العربية</string>
+    <string name="english">English</string>
+    <string name="order_palced_toast">شكرا لك يمكنك متابعة طلبك من قسم الطلبات</string>
+
+    <string name="stepmore">اتمام الطلب</string>
+
+    <string name="Delete">مسح</string>
+    <string name="UpdateOrder">تحديث</string>
+    <string name="DeleteCartitem">تم ازالة المنتج من السلة</string>
+
+    <string name="loading">جارى التحميل...</string>
+
+    <string name="Go">اذهب</string>
+    <string name="Failredtosendnotify">Order was send but failed to sent notification!</string>
+
+
+    <string name="SignOut">تسجيل الخروج</string>
+    <string name="SignOutMSG">هل بالفعل تريد تسجيل خروجك؟</string>
+    <string name="CANCELLL">الغاء</string>
+    <string name="YESS">نعم</string>
+
+
+    <string name="YourName">الاسم</string>
+    <string name="YourAddresss">العنوان</string>
+    <string name="YourPhone">رقم الهاتف</string>
+
+    <string name="calnow">اتصال هاتفى</string>
+    <string name="wats">واتساب</string>
+
+    <string name="address_hint">عنوانك بالتفصيل</string>
+
+
+    <string name="FromRokn">عبر تطبيق نوري توبلار: </string>
+    <string name="RegisterSuccessfully">تم التسجيل بنجاح</string>
+
+    <string name="AddonDef">الاضفافات :بدون</string>
+    <string name="SizeDef">الحجم :افتراضى</string>
+
+    <string name="restaurantclosed">خدمة التوصيل متوقفة</string>
+    <string name="restaurantnow">خدمة التوصيل متوقفة فى الوقت حالى, سنعود قريبا</string>
+    <string name="OkOk">استمر فى التصفح</string>
+
+    <string name="OutStock">إنتهى من المخزن
+</string>
+
+    <string name="nav_branches">الفروع</string>
+
+    <string name="pleaseselectbranch">الفرع</string>
+
+    <string name="Youbranch">يجب اختيار الفرع</string>
+
+    <string name="PhoneCall">اتصال هاتفى</string>
+    <string name="OpenLocation">الموقع على الخريطة</string>
+
+
+
+    <string name="BranchAddress">العنوان: </string>
+    <string name="BranchPhone">رقم الهاتف: </string>
+    <string name="locationnull">الموقع على الخريطة سيكون متاح قريبا</string>
+
+
+</resources>

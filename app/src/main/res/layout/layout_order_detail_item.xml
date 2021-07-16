@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:weightSum="10"
+        android:orientation="horizontal"
+        android:paddingTop="16dp"
+        android:paddingBottom="16dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/img_food_image"
+            android:layout_width="0dp"
+            android:scaleType="fitXY"
+            android:layout_gravity="center"
+            android:layout_weight="3"
+            android:layout_height="match_parent"/>
+
+        <LinearLayout
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="8dp"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:orientation="vertical"
+            android:layout_weight="7"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:id="@+id/txt_food_name"
+                android:text="TAHIA SALAT"
+                android:fontFamily="@font/brandon_medium"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="16sp"
+                android:textStyle="italic"
+                android:textColor="@android:color/holo_blue_light"
+                />
+
+
+
+            <TextView
+                android:id="@+id/txt_food_quantity"
+                android:text="Quantity: 1"
+                android:paddingLeft="@dimen/_4sdp"
+                android:fontFamily="@font/brandon_medium"
+                android:textSize="16sp"
+                android:textStyle="italic"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
+
+
+            <TextView
+                android:id="@+id/txt_food_price"
+                android:text="Price:"
+                android:fontFamily="@font/brandon_medium"
+                android:textSize="16sp"
+                android:textStyle="italic"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
+
+
+
+            <TextView
+                android:visibility="gone"
+                android:paddingLeft="@dimen/_4sdp"
+                android:id="@+id/txt_food_add_on"
+                android:text="@string/AddonDef"
+                android:fontFamily="@font/brandon_medium"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="16sp"
+                android:textStyle="italic"
+                />
+
+            <TextView
+                android:visibility="gone"
+                android:paddingLeft="@dimen/_4sdp"
+                android:id="@+id/txt_size"
+                android:text="@string/SizeDef"
+                android:fontFamily="@font/brandon_medium"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="16sp"
+                android:textStyle="italic"
+                />
+
+
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>

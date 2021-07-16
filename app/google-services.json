@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "905847485663",
+    "firebase_url": "https://nuri-toplar.firebaseio.com",
+    "project_id": "nuri-toplar",
+    "storage_bucket": "nuri-toplar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905847485663:android:7c0425cb0a6e1e6ca4e56a",
+        "android_client_info": {
+          "package_name": "com.NuriToplar.client"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "905847485663-uv5uniuh2jgt3p64qea9rh2j1cfakspd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.NuriToplar.client",
+            "certificate_hash": "7fc4bed5b01be3afe8287ab6ae16c9bd6cc1c3db"
+          }
+        },
+        {
+          "client_id": "905847485663-8o8sus0b0hg98rfp1to2tdvhq4pl7s19.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxuEHeaHjIw7jVgdfn1tFodufadzBKBiY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "905847485663-8o8sus0b0hg98rfp1to2tdvhq4pl7s19.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

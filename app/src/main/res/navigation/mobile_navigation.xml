@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.eatitappclient.tws.ui.home.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/nav_menu"
+        android:name="com.eatitappclient.tws.ui.menu.MenuFragment"
+        android:label="@string/menu_menu"
+        tools:layout="@layout/fragment_menu" />
+
+    <fragment
+        android:id="@+id/nav_offers"
+        android:name="com.eatitappclient.tws.ui.best_deals.BestDealsFragment"
+        android:label="@string/offers"
+        tools:layout="@layout/best_deals_fragment" />
+
+
+    <fragment
+        android:id="@+id/nav_food_detail"
+        android:name="com.eatitappclient.tws.ui.Fooddetail.FoodDetailFragment"
+        android:label="@string/menu_food_detail"
+        tools:layout="@layout/fragment_food_detail" />
+
+    <fragment
+        android:id="@+id/nav_bestDeals_detail"
+        android:name="com.eatitappclient.tws.ui.bestDealsDetails.BestDealsDetailsFragment"
+        android:label="@string/menu_food_detail"
+        tools:layout="@layout/fragment_food_detail" />
+
+    <fragment
+        android:id="@+id/nav_view_orders"
+        android:name="com.eatitappclient.tws.ui.view_orders.ViewOrdersFragment"
+        android:label="@string/nav_orders"
+        tools:layout="@layout/fragment_view_order" />
+
+    <fragment
+        android:id="@+id/nav_cart"
+        android:name="com.eatitappclient.tws.ui.cart.CartFragment"
+        android:label="@string/nav_cart"
+        tools:layout="@layout/fragment_cart" />
+
+    <fragment
+        android:id="@+id/nav_food_list"
+        android:name="com.eatitappclient.tws.ui.Foodlist.FoodListFragment"
+        android:label="@string/menu_food_list"
+        tools:layout="@layout/fragment_food_list"/>
+
+    <fragment
+        android:id="@+id/nav_branches"
+        android:name="com.eatitappclient.tws.ui.branches.BranchesFragment"
+        android:label="@string/nav_branches"
+        tools:layout="@layout/branches_fragment"/>
+
+
+</navigation>

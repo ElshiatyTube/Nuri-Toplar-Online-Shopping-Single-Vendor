@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0F050D</color>
+    <color name="colorPrimaryDark">#0F050D</color>
+    <color name="colorAccent">#0F050D</color>
+    <color name="specialBroun">#462611
+    </color>
+
+    <color name="appOrange">#FC8D00</color>
+    <color name="black1">#FF000000</color>
+
+
+
+    <color name="wight">#FFFF</color>
+
+
+
+    <color name="bktinydarkerwithgt">#F3F2F3</color>
+
+
+
+
+    <color name="brounnew">#4C0500</color>
+
+    <color name="broun">#2C0402</color>
+
+    <color name="brountransmain">#802C0402</color>
+
+
+    <color name="brountrans">#DDBF99</color>
+
+
+    <color name="acconttext">#FDDD00</color>
+
+    <color name="red">#F80000</color>
+    <color name="gray">#878787</color>
+
+    <color name="yellow">#80f5f57f</color>
+    <color name="orange">#FFAA13</color>
+    <color name="green">#809AD65B</color>
+
+    <color name="kohlyy">#3C4A77</color>
+
+    <color name="grayneww">#666666</color>
+
+
+    <color name="nbyty">#811F19</color>
+
+
+    <color name="background_color">#F5F5F5</color>
+
+    <color name="overlay_color">#55333639</color>
+    .
+    <color name="border_color">#AA333639</color>
+
+    <color name="dialgo_hearder_color">#80C5C5C5</color>
+
+    <color name="dialgo_text_color">#464646</color>
+
+    <color name="transBlack">#80000000</color>
+
+
+</resources>
